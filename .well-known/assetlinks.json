@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gutierrezgames.racingmanager",
+      "sha256_cert_fingerprints": [
+        "09:D0:54:F7:01:01:39:21:4D:3F:0C:9F:E3:C4:FC:94:03:44:B0:F5:D3:7C:58:76:8C:4B:0F:7A:48:DB:47:58"
+      ]
+    }
+  }
+]
